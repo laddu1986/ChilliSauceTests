@@ -45,7 +45,7 @@
     "mocha": "^2.5.3",
     "node-excel-to-json": "0.0.3",
     "node-inspector": "^1.1.1",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "wdio-dot-reporter": "0.0.5",
     "wdio-json-reporter": "^0.1.1",
     "wdio-junit-reporter": "0.0.2",
